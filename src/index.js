@@ -1,6 +1,5 @@
 export * from "./common/index.js";
 export * from "./cards/index.js";
-import { renderStatsCard } from 'github-readme-stats'
 
 // 必须导出包含事件处理方法的对象
 export default {
