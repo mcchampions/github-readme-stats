@@ -1,5 +1,5 @@
 {
-  "name": "github-readme-stats-worker",
+  "name": "github-readme-stats",
   "compatibility_date": "2025-06-23",
   "assets": {
     "directory": "./dist"
