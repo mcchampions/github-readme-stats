@@ -8,4 +8,5 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
+  format = "modules"
 }
