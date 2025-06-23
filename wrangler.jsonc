@@ -8,5 +8,10 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "format": "modules"
+  "format": "modules",
+  "observability": {
+    "logs": {
+      "enabled": true
+    }
+  }
 }
