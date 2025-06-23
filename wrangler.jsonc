@@ -1,0 +1,9 @@
+{
+  "name": "github-readme-stats-worker",
+  "compatibility_date": "2025-06-23",
+  "assets": {
+    "directory": "./dist"
+  },
+  "main": "src/index.js",
+  "node_compat": true
+}
