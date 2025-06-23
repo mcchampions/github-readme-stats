@@ -4,6 +4,5 @@
   "assets": {
     "directory": "./dist"
   },
-  "main": "src/index.js",
-  "node_compat": true
+  "main": "src/index.js"
 }
